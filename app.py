@@ -52,10 +52,6 @@ st.markdown("""
         letter-spacing: -1px;
     }
     
-    .hero-title::after {
-        content: "NOKIA APP LOG ANALYSER";
-    }
-
     .hero-subtitle {
         color: #888;
         text-align: center;
